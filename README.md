@@ -1,2 +1,2 @@
 # machine_learning
-Machine Learning
+Algorithm to find the recommended movie.
